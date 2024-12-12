@@ -7,5 +7,5 @@ source("https://raw.githubusercontent.com/GaliSuarez/Expo2/refs/heads/main/DEPRE
 En la siguente liga puede ver el documento
 
 ```
-source("
+source("https://raw.githubusercontent.com/GaliSuarez/Expo2/refs/heads/main/DEPRECIACION.html")
 ```
